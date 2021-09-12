@@ -1,0 +1,26 @@
+{
+  "name": "subscription-tracker",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryelow94/subscription-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryelow94/subscription-tracker/issues"
+  },
+  "homepage": "https://github.com/ryelow94/subscription-tracker#readme",
+  "devDependencies": {
+    "node-fetch": "^2.6.2"
+  },
+  "dependencies": {
+    "netlify-cli": "^6.8.12"
+  }
+}
